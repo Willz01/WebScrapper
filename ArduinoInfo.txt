@@ -1,0 +1,24 @@
+Keypad Garage Opener
+How to Make LEDs DIY Face Mask Using LED Strip, Arduino Nano
+Musical Door Lock
+Christmas Countdown Display
+Laser Guitar
+Boat with Arduino Nano 33 IoT on Arduino Cloud
+AI Assistant Robot with Arduino and Python
+RC Car (Arduino-Based 3D Resin Printed) RC_Car_RP
+QuickFFT: High Speed (low accuracy) FFT for Arduino
+USB + MIDI Interface for Drums and Pedals (Z-MIDI6dp)
+Pet Feeder with 3D Printed Parts
+Homemade Arduino , Si4730 All Band Receiver (LW, MW, SW, FM)
+RGB Large Digital Clock
+Biorhythm Clock Using Arduino Nano, RTC, 1602A and 74HC595
+Snake Game on Nokia 5510 LCD
+Wirlesse Laser Data Transmission(LIFI) (100b/second)
+Buzz Wire Deluxe
+Matrix Panel Cuckoo and Westminster Clock
+EasyWifi for MKR1010 & Nano33 IOT / WifiNINA
+Sonos Hub
+Entangled Qubits Simulator with Arduino
+PU2CLR BK108X Arduino Library
+SCADA Using Cellular IoT with MKR GSM 1400
+Automated Beer Pong Game - Moving Cups!
